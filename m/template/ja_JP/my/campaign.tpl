@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+<title>Linh Triều Bình Ca</title>
+<style type="text/css">
+{{literal}}
+a:link{color:#ffff00;}
+a:visited{color:#ffff00;}
+{{/literal}}
+</style></head><body style="background-color:#000000;color:#ffffff"><a name="top" id="top"></a><div style="font-size:x-small;"><div style="background-color:#ff0000;"><img src="http://{{$app.domain.img}}/spacer.gif" width="1" height="1" /><br /><div style="text-align:center; background-color:#820000; color:#ffffff;">Event "Top Quân đoàn" – Tặng Iphone 4</div><img src="http://{{$app.domain.img}}/spacer.gif" width="1" height="1" /></div><img src="http://{{$app.domain.img}}/spacer.gif" width="1" height="5" /><br /><div style="font-size:x-small; padding: 0.5ex 0"><p>Nhân dịp chào mừng sự kiện “Linh Triều Bình Ca” chính thức ra mắt cộng đồng Game Mobile, từ ngày 21/07/2011, <span style="font-style:italic; font-weight:bold">Socialgame.vn</span> sẽ tổ chức Event “Top Quân đoàn” đến hết 23h59 ngày 03/08/2011. Quân đoàn cấp cao nhất sẽ nhận được phần thưởng là 1 chiếc <b>Iphone 4.</b></p><p>Đối tượng tham gia: <b>Tất cả các Game thủ tham gia Linh Triều Bình Ca.</b><br/><b>Phần Thưởng:</b> 17 quân đoàn đạt level cao nhất sẽ được vinh danh với các giải thưởng sau:</p><ul> <li><span style="font-weight:bold; font-style:italic">Quân đoàn cấp cao nhất:</span> <strong style="color:red; font-style:normal">Iphone 4</strong></li> <li><span style="font-weight:bold; font-style:italic">Quân đoàn cấp thứ hai:</span> Thẻ cào 500.000 VND và 2 card A ngẫu nhiên</li> <li><span style="font-weight:bold; font-style:italic">5 Quân đoàn cấp thứ ba:</span> Thẻ 100.000 VND và 1 card A ngẫu nhiên</li> <li><span style="font-weight:bold; font-style:italic">10 Quân đoàn tiếp theo:</span> Tặng 1 card A ngẫu nhiên </li></ul><p style="font-style:italic"><b>Lưu ý:</b> Trong trường hợp cùng level, giải thưởng sẽ được xem xét ở các yếu tố tiếp theo gồm điểm kinh nghiệm, tỉ lệ trận thắng, thua, công lực, thủ lực.</p><p>Danh sách các Quân đoàn trúng giải sẽ được công bố vào ngày 04/08/2011.</p></div><img src="http://{{$app.domain.img}}/spacer.gif" width="1" height="15" /><br /><!-- footer --><div style="background-color:#820000;"><img src="http://{{$app.domain.img}}/spacer.gif" width="1" height="1" /></div><div style="text-align:center;"><a href="{{"/login/signup.php"|cnvgw}}">Đăng ký</a> | <a href="{{"/login/index.php"|cnvgw}}">Đăng nhập</a></div><div style="text-align:center;">{{include file="parts/emoji_vn.tpl" id=2}}<a href="{{"/"|cnvgw}}" accesskey="1">Trang chủ</a></div></div></body></html>

@@ -1,0 +1,1 @@
+<img src="http://{{$app.domain.img}}/emo/{{$id}}.gif" width="12" />

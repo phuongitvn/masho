@@ -1,0 +1,2 @@
+<img src="http://{{$app.domain.img}}/spacer.gif" width="1" height="5" /><br />
+<div style="text-align:center;">{{include file="parts/emoji_vn.tpl" id=2}}<a href="{{"/index.php"|cnvgw}}" accesskey="1">Trang chủ</a> {{include file="parts/emoji_vn.tpl" id=49}}<a href="#" accesskey="3">MoBa SNS</a><br /> {{include file="parts/emoji_vn.tpl" id=44}}<a href="{{"/login/logout.php"|cnvgw}}" accesskey="6">Thoát</a></div>
